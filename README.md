@@ -1,0 +1,2 @@
+# django_bilan_ishlash
+birnchi_bor_django_bilan_ishlash
